@@ -1,6 +1,8 @@
 # augsynth
 Augmented synthetic control method Use augsynth With (In) R Software
 
+https://www.youtube.com/watch?v=hhpI6b8tRV8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
